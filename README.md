@@ -1,6 +1,8 @@
 # Item-Plugin
 This is a Simple Minecraft Spigot Plugin that gives you a Item once the Command is used. Also Shows how to make Enchanted Items with Descriptions.
 
+NOTE: THIS PLUGIN IS IN 1.19, SO YOU MUST HAVE 1.19 IN ORDER TO RUN THE PLUGIN.
+
 ## Commands:
 
 ### Basic:
