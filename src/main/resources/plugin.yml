@@ -1,0 +1,20 @@
+name: ItemPlugin
+
+version: '${project.version}'
+main: itemplugin.itemplugin.ItemPlugin
+api-version: 1.19
+
+authors: [ Gladiator ]
+description: This is a Simple Minecraft Plugin that gives you a Item once the Command is used. Also Shows how to make Enchanted Items with Descriptions.
+
+commands:
+  basic:
+    description: Basic Item Command that gives you a Item without a Description or Enchant
+    usage: /basic basicitem
+  description:
+    description: Basic Item Command that gives you a Item with a Description but without a Enchant
+    usage: /description descitem
+  enchanted:
+      description: Basic Item Command that gives you a Item with a Description and Enchant
+      usage: /enchanted enchantitem
+
